@@ -1,0 +1,11 @@
+{
+  "name": "puppeteer-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nghminh163/puppeteer-sample.git",
+  "author": "Nguyễn Hoàng Minh <nghminh163@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.15.0"
+  }
+}
